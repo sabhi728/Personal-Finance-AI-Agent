@@ -1,4 +1,4 @@
-# 💰 AI Personal Finance Planner
+# 💰 Personal Finance Planner AI Agent
 
 A modern, AI-powered personal finance management application that combines the power of OpenAI GPT-4 with an intuitive React-based user interface. This application helps you take control of your financial future by providing personalized financial planning and real-time transaction tracking.
 
@@ -68,8 +68,7 @@ A modern, AI-powered personal finance management application that combines the p
 
 2. **Clone the Repository**
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd awesome-llm-apps/ai_agent_tutorials/ai_personal_finance_agent
+   git clone https://github.com/sabhi728/Personal-Finance-AI-Agent
    ```
 
 3. **Install Frontend Dependencies**
@@ -138,10 +137,3 @@ A modern, AI-powered personal finance management application that combines the p
 - All sensitive data is handled with encryption
 - Secure communication between frontend and backend
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
